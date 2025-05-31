@@ -1,5 +1,5 @@
 # Kaggle Predict Calorie Expenditure
-My Submission for the Kaggle Playground Prediction Competition (Season 5, Epside 5)
+My Submission for the [Kaggle Playground Prediction Competition (Season 5, Epside 5)](https://www.kaggle.com/competitions/playground-series-s5e5/overview)
 
 ## Getting Started
 
